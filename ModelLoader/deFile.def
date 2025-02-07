@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+CreateModel	=	CreateModel
+DeleteModel =	DeleteModel
+GetMesh		=	GetMesh
